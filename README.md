@@ -1,5 +1,5 @@
 # Hi there 👋
-**I am Mihnea, a Second-Year Systems Engineering & Applied Informatics Student at UPB ACS**
+**I am Mihnea, a Second-Year Systems Engineering & Applied Informatics Student at University POLITEHNICA of Bucharest(ACS)**
 
 ## 🔭 What I am currently working on
 - Preparing for the **AWS Certified Cloud Practitioner** and **AWS Certified Solutions Architect** certifications.
