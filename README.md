@@ -9,10 +9,8 @@ I am a second-year computer science and engineering student at the University PO
 - **DevOps, Networking & OS:** Linux (RHEL, Ubuntu), Wireshark, Scapy, Mininet, Cisco IOS, Cisco Packet Tracer
 
 ## 🚀 Featured Projects
-| Project | Description | Tech | Highlights |
-|---------|-------------|------|------------|
-| **L4 Load Balancer** | A Layer 4 load balancing application featuring dynamic packet routing and an interactive web dashboard, built during a weekend hackathon. | Python, Flask, Scapy, Mininet | Collaborated in a 4-person team to integrate network routing with a front-end UI. |
-| **Knowledge Graph Engine** | An in-memory Knowledge Graph and query engine utilizing directed weighted graphs to map complex relationships. | C | Implemented complex data structures from scratch, including binary search trees and min-heaps. |
+- **Layer 4 Load Balancer**
+- **Knowledge Graph Engine**
 
 ## 🌱 Currently Learning
 - Preparing for the **AWS Certified Cloud Practitioner** and **AWS Certified Solutions Architect** certifications.
