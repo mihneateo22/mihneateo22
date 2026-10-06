@@ -6,9 +6,9 @@
 - Developing scalable backend and full-stack projects using **Python**.
 
 ## 🛠️ Tools I use
-- **Languages:** C, C++, Python, JavaScript, HTML, CSS
+- **Languages:** C, C++, Python, JavaScript
 - **Architecture:** Custom In-Memory Data Structures (Binary Search Trees, Min-Heaps, Directed Weighted Graphs)
-- **DevOps, Networking & OS:** Linux (RHEL, Ubuntu), Wireshark, Scapy, Mininet, Cisco IOS, Cisco Packet Tracer
+- **DevOps, Networking & OS:** Linux (RHEL, Fedora, Ubuntu), Wireshark, Scapy, Mininet, Cisco IOS, Cisco Packet Tracer
 
 ## 🤝 Open Source & Community
 - **Event Volunteer:** Assisted with the event logistics and organization for the national stage of the **AcadNet 2026** computer science competition.
