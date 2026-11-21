@@ -4,7 +4,7 @@
 ## 🔭 What I am currently working on
 - Building my foundation in **Machine Learning & AI**, learning by building hands-on projects alongside the theory.
 - Completed **Anthropic Academy** courses: Claude 101, Claude Code 101 and Claude Code in Action.
-- Looking for an **AI/ML/Data Science internship** for summer 2027.
+- Looking for an **AI/ML/Data Science internship** for 2027.
 
 ## 🛠️ Tools I use
 - **Languages:** Python, C, C++
